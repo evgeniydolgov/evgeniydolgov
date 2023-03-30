@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Evgeniy.
-# I'am a front-end developer
+# I'm a front-end developer
 
 ## 🏆 Stack:
 

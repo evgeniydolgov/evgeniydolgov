@@ -1,6 +1,9 @@
 ### Hi there 👋 My name is Evgeniy.
 # I'm a front-end developer
 
+## Codewars:
+<img src=https://www.codewars.com/users/Evgeniy%20Dolgov/badges/large alt=codewars>
+
 ## 🏆 Stack:
 
 <a href="https://ru.wikipedia.org/wiki/HTML">

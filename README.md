@@ -100,11 +100,6 @@
   
 ### 📞 Connect with me:
 
-<a href="https://www.linkedin.com/in/evgeniy-dolgov-7a9896253/">
-     <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" 
-          alt="HTML.png"
-          width="30">
-</a>
 <a href="https://t.me/Fox_hounded">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/480px-Telegram_Messenger.png" 
           alt="HTML.png"

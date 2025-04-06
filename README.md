@@ -96,12 +96,3 @@
           alt="markdown.png"
           width="60">
 </a>
-
-  
-### 📞 Connect with me:
-
-<a href="https://t.me/Fox_hounded">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/480px-Telegram_Messenger.png" 
-          alt="HTML.png"
-          width="30">
-</a>
